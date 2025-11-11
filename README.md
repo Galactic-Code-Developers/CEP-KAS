@@ -4,6 +4,8 @@
 **Principal Investigator: Antonios Valamontes**  
 **X: [@valamontestony](https://x.com/valamontestony)** | **Date: 11 November 2025, 10:01 EET**  
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17579675.svg)](https://doi.org/10.5281/zenodo.17579675)
+
 ---
 
 ## Overview  
