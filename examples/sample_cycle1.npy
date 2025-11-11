@@ -1,5 +1,6 @@
 # Add to cep_simulation.py (at end)
 if __name__ == "__main__":
+    print("Running CEP-KAS Simulation...")
     result = run_one_cycle()
     np.save("examples/sample_cycle1.npy", grid)  # Save final grid
-    print("Saved example grid to examples/sample_cycle1.npy")
+    print(f"Saved grid to examples/sample_cycle1.npy (Net L = {result['net_L_post_reheat']:.1f})")
