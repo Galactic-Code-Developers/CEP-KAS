@@ -1,1 +1,37 @@
-
+{
+  "title": "CEP-KAS: Chirality Echo Protocol 3D Cyclic Simulation",
+  "description": "A 3D numerical simulation deriving galaxy spin parameter λ = 0.0482 from a single topological chirality bias Δχ = 10⁻⁸ in the pre-geometric vacuum. Includes LaTeX preprint, Python/NumPy code, and full appendices. Compatible with ΛCDM and cyclic cosmology.",
+  "creators": [
+    {
+      "name": "Valamontes, Antonios",
+      "affiliation": "Kapodistrian Academy of Science (KAS), Tampa, Florida, USA",
+      "orcid": ""
+    }
+  ],
+  "keywords": [
+    "CEP",
+    "chirality",
+    "cosmic angular momentum",
+    "galaxy spin",
+    "vacuum topology",
+    "cyclic cosmology",
+    "gravitational waves",
+    "JWST",
+    "LISA"
+  ],
+  "license": "mit",
+  "upload_type": "software",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/valamontes/CEP-KAS",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "cosmology"
+    }
+  ]
+}
