@@ -3,3 +3,6 @@ __pycache__/
 *.npy
 .DS_Store
 *.log
+*.pdf
+*.aux
+*.out
