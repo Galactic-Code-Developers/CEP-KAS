@@ -1,6 +1,6 @@
 {
   "title": "CEP-KAS: Chirality Echo Protocol 3D Cyclic Simulation",
-  "description": "A 3D numerical simulation deriving galaxy spin parameter λ = 0.0482 from a single topological chirality bias Δχ = 10⁻⁸ in the pre-geometric vacuum. Includes LaTeX preprint, Python/NumPy code, and full appendices. Compatible with ΛCDM and cyclic cosmology.",
+  "description": "A 3D numerical simulation deriving galaxy spin parameter λ = 0.0482 from a single topological chirality bias Δχ = 10⁻⁸ in the pre-geometric vacuum. Includes preprint, Python/NumPy code, and full appendices. Compatible with ΛCDM and cyclic cosmology.",
   "creators": [
     {
       "name": "Valamontes, Antonios",
