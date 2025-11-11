@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Valamontes"
+    given-names: "Antonios"
+    orcid: "https://orcid.org/0009-0008-5616-7746"  # Add if you have
+title: "CEP-KAS: Chirality Echo Protocol 3D Simulation"
+version: 1.0.0
+doi: 10.5281/zenodo.XXXXXXX  # Auto-filled by Zenodo
+date-released: 2025-11-11
